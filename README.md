@@ -18,35 +18,4 @@
   <li><a href='https://jupyter.org/'>Jupyter Notebook</a></li>
   <li><a href='https://plotly.com/'>plotly</a> - Para criação de gráficos.</li>
   <li><a href='https://pandas.pydata.org/'>pandas</a> - Para manipulação e análise de dados.</li>
-</ul>
-
-## Como Utilizar
-<ol>
-  <li>Abra o terminal ou prompt de comando no diretório desejado.</li>
-  <li>Clone o repositório usando o seguinte comando:</li>
-  
-  ```bash
-  git clone https://github.com/talitasdias/Python-Insights.git
-  ```
-
-  <li>Navegue até o diretório do projeto:</li>
-
-  ```bash
-  cd Python-Insights
-  ```
-
-  <li>Instale as bibliotecas necessárias:</li>
-  
-  ```bash
-  pip install pandas plotly
-  ```
-
-  <li>Execute o script principal:</li>
-
-  ```bash
-  python inicial.py
-  ```
-
-</ol>
-   Agora você está pronto para começar a usar ou contribuir para o projeto!
-  
+</ul> 
