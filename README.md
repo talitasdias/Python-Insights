@@ -3,7 +3,7 @@
 <p>Este projeto foi criado como parte do intensivão oferecido pela <a href='https://www.hashtagtreinamentos.com/' target='_blank'>Hashtag Treinamentos</a>, com o objetivo de explorar análise e tratamento de dados em Python.</p>
 
 ## Descrição:
-<p>O projeto consiste em uma ferramenta de automação que preenche automaticamente um formulário web utilizando dados de um arquivo CSV. Essa solução eficiente visa simplificar processos repetitivos e economizar tempo, proporcionando uma experiência mais ágil e precisa.</p>
+<p>O projeto tem como foco a análise exploratória de dados, utilizando técnicas avançadas para extrair informações relevantes. Desde manipulação eficiente de dados com pandas até a criação de visualizações interativas com plotly, oferecemos uma experiência imersiva na análise de dados.</p>
 <img src='capa.gif' width='100%'>
 <ul>
   <li>Análise e Tratamento de Dados</li>
